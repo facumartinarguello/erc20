@@ -28,7 +28,7 @@ library SafeMath {
 }
 
     // ERC20 Token Smart Contract
-    contract Goldofir{
+    contract Contrato{
        
         string public constant name = "Name Of Token";
         string public constant symbol = "Symbol of token";
